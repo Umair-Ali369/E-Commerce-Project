@@ -5,7 +5,7 @@ A full-featured **E-Commerce web application** built with **React**, designed to
 ---
 
 ## 🚀 Live Demo
-https://your-ecommerce-app.vercel.app
+https://e-commerce-project-zeta-tan.vercel.app/
 
 ---
 
@@ -81,4 +81,5 @@ This separation makes the app easy to understand, maintain, and extend.
 - JavaScript (ES6+)
 - Vite
 - CSS / Tailwind CSS
+
 
